@@ -1,0 +1,6 @@
+== Welcome to Roomate
+
+Roomate is a simple application that allows a company to manager its rooms and their reservations.
+
+Reservation is easy : give it a date and a number of participants : Roomate finds the available rooms
+for you !!
